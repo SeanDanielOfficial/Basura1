@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#002bff</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="editText">#dadada</color>
+    <color name="softBlack">#262828</color>
+    <color name="blue">#002bff</color>
+    <color name="green"> </color>
+    <color name="white">#ffffff</color>
+    <color name="white2">#c0deed</color>
+    <color name="grey">#bfbfbf</color>
+    <color name="black">#000000</color>
+    <color name="link_blue">#4d94ff</color>
+
+    <color name="darkRed">#cc0000</color>
+    <color name="colordarkRed">#cc0000</color>
+
+    <color name="mcam_color_light">#FAFAFA</color>
+    <color name="mcam_color_dark">#424242</color>
+</resources>
